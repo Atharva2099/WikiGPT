@@ -31,7 +31,7 @@ wikiGPT is a Streamlit-based web application that allows users to scrape Wikiped
    
 4. Once you have Ollama installed , Open up your Terminal:
    
-         ollama run "Model Name"
+         ollama run Mistral7B
    
 (This code uses of Mistral-7B-v1-Instruct, but you can use any depending on your needs and hardware)
 
