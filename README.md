@@ -28,6 +28,12 @@ wikiGPT is a Streamlit-based web application that allows users to scrape Wikiped
         pip install -r requirements.txt
 
 3. Install Ollama following the instructions at [Ollama](https://ollama.com/)
+   
+4. Once you have Ollama installed , Open up your Terminal:
+   
+         ollama run "Model Name"
+   
+(This code uses of Mistral-7B-v1-Instruct, but you can use any depending on your needs and hardware)
 
 ## Usage
 
