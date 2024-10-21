@@ -2,6 +2,13 @@
 
 wikiGPT is a Streamlit-based web application that allows users to scrape Wikipedia pages and process the content using the Mistral language model. The app provides an interface to input Wikipedia URLs, scrape their content, and ask questions about the scraped text using natural language processing.
 
+## Quicklinks
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [File Structure](#File-Structure)
+- [Dependencies](#Dependencies)
+
 ## Features
 
    - Scrape content from Wikipedia pages
